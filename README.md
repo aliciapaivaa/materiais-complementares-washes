@@ -2,7 +2,7 @@
 
 Este repositório contém os materiais suplementares relacionados ao artigo:
 
-Uma nova visualização de Refatorações em Pull Requests: Proposta e Avaliação Preliminar
+"Uma nova visualização de Refatorações em Pull Requests: Proposta e Avaliação Preliminar"
 
 Todos os materiais foram disponibilizados de forma anonima.
 
